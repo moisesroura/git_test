@@ -1,0 +1,10 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: F05A-4E3E
+
+ Directorio de C:\wk\projectes\git_test
+
+16/08/2020  11:42    <DIR>          .
+16/08/2020  11:42    <DIR>          ..
+16/08/2020  11:42                 0 fitxer.txt
+               1 archivos              0 bytes
+               2 dirs  879.593.713.664 bytes libres

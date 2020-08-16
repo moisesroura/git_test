@@ -1,5 +1,5 @@
  
- REMOTE SYNCRO.01
+ REMOTE SYNCRO.02
  
  Directorio de C:\wk\projectes\git_test
 
